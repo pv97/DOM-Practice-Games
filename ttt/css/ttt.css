@@ -1,0 +1,22 @@
+li {
+  float: left;
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  margin: 10px;
+  background: gray;
+  font-family: Sans-serif;
+  font-size: 100px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+ul {
+  list-style-type: none;
+  width: 700px;
+  height: 700px;
+}
+
+li:hover{
+  background: yellow;
+}
